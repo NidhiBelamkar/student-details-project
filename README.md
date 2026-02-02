@@ -23,7 +23,7 @@ Enter marks in 3 subjects: 80 70 90
 Total = 240
 Percentage = 80.00
 
-Grade = A
+Grade = A+
 Result = PASS*/
 
 
